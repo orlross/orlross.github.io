@@ -109,17 +109,6 @@ footer:
       url: # "https://instagram.com/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -127,6 +116,21 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teachings
+  - scope:
+      path: ""
+      type: teachings
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
+
 
 category_archive:
   type: liquid
@@ -134,3 +138,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+
+
+collections:
+  teachings:
+    output: true
+    permalink: /:collection/:path/
