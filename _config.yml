@@ -38,8 +38,7 @@ google-site-verification: # à remplir avec google reference id
 
 # Rajouter les dossiers pour qu'ils soient pris en compte sur le site web
 # ["_pages", "_data", "_reminders", "_layouts", "_teachings"]
-include:
-  - _pages
+include: ["_pages", "_teachings"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
