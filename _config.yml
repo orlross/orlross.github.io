@@ -27,7 +27,7 @@ search: true
 markdown: kramdown
 # On peut fixer la version
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "sunrise"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
