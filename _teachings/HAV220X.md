@@ -1,9 +1,9 @@
 ---
-layout: single
-title: ""
-author_profile: true
+title: HAV220X - Raisonnement scientifique (2023-?)
 ---
 
-
-# Le cours de raisonnement scientifique contient blablabla 
-
+Undergraduate course (in French) in the first year of the biology cursus.
+This essentially comes down to the basic knowledge required in biology:
+- set theory (union, intersection, cardinal, ...)
+- random variables with classical distributions,
+- conditional probabilities.

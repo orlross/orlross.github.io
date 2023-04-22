@@ -140,8 +140,6 @@ tag_archive:
   path: /tags/
 
 
-
-
 collections:
   teachings:
     output: true
