@@ -130,6 +130,20 @@ defaults:
       toc_icon: "swatchbook"
       sidebar: main
       classes: wide
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
 
 
 category_archive:
