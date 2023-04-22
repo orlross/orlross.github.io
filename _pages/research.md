@@ -5,9 +5,6 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-<! -- intro:
-  - excerpt: "Scientific communication: including talks, (pre)-publications, code and slides when available." --> 
-
 classes: wide
 ---
 
