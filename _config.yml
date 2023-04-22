@@ -16,29 +16,39 @@
 title: Home
 email: orlane.lequellennec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  This is my professional website to keep track my work.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://orlross.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: username
 github_username: orlross
+github: [metadata]
 search: true
 
 # Build settings
 markdown: kramdown
-# On peut fixer la version
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "contrast"
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "sunrise"
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 google-site-verification: # à remplir avec google reference id
 
 # Rajouter les dossiers pour qu'ils soient pris en compte sur le site web
 # ["_pages", "_data", "_reminders", "_layouts", "_teachings"]
-include: ["_pages", "_teachings"]
+include: ["_pages", "_data", "_teachings"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -52,21 +62,20 @@ include: ["_pages", "_teachings"]
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+collections:
+  # reminders:
+    # output: true
+    # permalink: /:collection/:path/
+  teachings:
+    output: true
+    permalink: /:collection/:path/
 
 author:
   name: "Orlane Le Quellennec"
   avatar: # "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BWIOpfEAAAAJ&citpid=1&authuser=1"
   bio: "PhD Student in statistics" # Note: Markdown is allowed
   location: "Montpellier, France"
-  email            : "orlane.lequellennec@outlook.fr"
+  email            : "orlane.lequellennec@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -75,8 +84,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "tanglef"
-  gitlab           :
+  github           : "orlross"
+  gitlab           : "orlane.le-quellennec"
   google_plus      :
   keybase          :
   instagram        : #"tanguy_lef"
@@ -109,13 +118,15 @@ footer:
       url: # "https://instagram.com/"
 
 defaults:
+  -
   # _pages
   - scope:
-      path: "_pages"
+      path: # "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+
   # _teachings
   - scope:
       path: ""
@@ -131,7 +142,6 @@ defaults:
       sidebar: main
       classes: wide
 
-
 category_archive:
   type: liquid
   path: /categories/
@@ -140,7 +150,3 @@ tag_archive:
   path: /tags/
 
 
-collections:
-  teachings:
-    output: true
-    permalink: /:collection/:path/
