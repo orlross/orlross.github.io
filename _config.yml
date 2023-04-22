@@ -158,3 +158,10 @@ collections:
   teachings:
     output: true
     permalink: /:collection/:path/
+
+# Site
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
