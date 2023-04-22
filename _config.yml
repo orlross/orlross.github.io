@@ -63,7 +63,7 @@ plugins:
 
 author:
   name: "Orlane Le Quellennec"
-  avatar: "/_data/image/pp.jpg" # "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BWIOpfEAAAAJ&citpid=1&authuser=1"
+  avatar: "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BWIOpfEAAAAJ&citpid=1&authuser=1" # "/_data/image/pp.jpg"
   bio: "PhD Student in statistics" # Note: Markdown is allowed
   location: "Montpellier, France"
   email            : "orlane.lequellennec@outlook.fr"
