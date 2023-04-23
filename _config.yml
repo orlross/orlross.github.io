@@ -74,7 +74,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "tanglef"
+  github           : "orlross"
   gitlab           :
   google_plus      :
   keybase          :
@@ -94,6 +94,9 @@ author:
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: # "https://www.reddit.com/user/tanglef"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/orlane-le-quellennec"
 
 defaults:
   # _pages
