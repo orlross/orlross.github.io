@@ -4,6 +4,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+\[[my full cv (last update : May 2022)]({{ site.url }}/_data/cv.pdf)\]
+
 ## Academic Background 
 
 * 2022-2025(?): P.h.D in Statistics (*Model-based reinforcement learning for the control of partially observable piecewise deterministic semi-Markov decision processes*) under the supervision of [Benoîte de Saporta](https://imag.umontpellier.fr/~saporta/index-en.html), [Alice Cleynen](https://www.alice-cleynen.menopresto.net/) and [Régis Sabbadin](https://miat.inrae.fr/site/R%C3%A9gis_SABBADIN) at Institut Montpelliérain Alexander Grothendieck (IMAG - University of Montpellier), France
