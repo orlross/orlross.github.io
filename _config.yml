@@ -52,12 +52,12 @@ include: ["_pages", "_teachings", "_data", "_layouts"]
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
+  #- jekyll-paginate
+  #- jekyll-sitemap
+  #- jekyll-gist
+  #- jemoji
   - jekyll-include-cache
-  # - jekyll-feed
+  - jekyll-feed
 
 
 author:
