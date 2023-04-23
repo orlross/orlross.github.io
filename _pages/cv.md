@@ -1,5 +1,4 @@
 ---
-title: "Small CV"
 permalink: /cv/
 author_profile: true
 ---
