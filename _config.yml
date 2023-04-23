@@ -85,10 +85,10 @@ author:
   facebook         :
   foursquare       :
   github           : "orlross"
-  gitlab           :
+  gitlab           : "orlane.le-quellennec"
   google_plus      :
   keybase          :
-  instagram        : #"tanguy_lef"
+  instagram        :
   lastfm           :
   pinterest        :
   soundcloud       :
@@ -134,6 +134,20 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
+  # cv
+  - scope:
+      path: ""
+      type: cv
     values:
       layout: single
       author_profile: true
