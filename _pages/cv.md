@@ -3,7 +3,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-\[[my full cv (last update : May 2022)]({{ site.url }}/_data/cv.pdf)\]
+My full cv, in French is available \[[(last update : May 2022)]({{ site.url }}/_data/cv.pdf)\].
 
 ## Academic Background 
 
