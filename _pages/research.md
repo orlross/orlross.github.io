@@ -9,7 +9,7 @@ author_profile: true
   overlay_filter: "0.5"
 classes: wide-->
 
-# Talks 
+## Talks 
 
 - January 2023: [Journée des doctorant.e.s](https://miat.inrae.fr/site/images/e/ec/Programme-seminaire-doctorants-2023.pdf) *Apprentissage par renforcement à base de modèles pour le contrôle de processus de décision semi-
 markoviens déterministes par morceaux, partiellement observables* INRAE-MIAT, Univ. Toulouse, France \[[slides]({{ site.url }}/_data/slides/MIAT_23_01_13.pdf)\]
