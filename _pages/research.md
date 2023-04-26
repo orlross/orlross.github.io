@@ -3,8 +3,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  overlay_color: "#ca6f1e"
-  overlay_filter: "0.5"
+  overlay_color: "#edbb99"
+  overlay_filter: "0.25"
 classes: wide
 ---
 

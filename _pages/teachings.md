@@ -5,7 +5,7 @@ permalink: /teachings/
 collection: teachings
 header:
   overlay_color: "#edbb99"
-  overlay_filter: "0.5"
+  overlay_filter: "0.25"
 classes: wide
 ---
 
