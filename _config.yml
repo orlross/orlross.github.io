@@ -100,7 +100,7 @@ author:
   bio: "PhD Student in statistics" # Note: Markdown is allowed
   location: "Montpellier, France"
   email            : "orlane.lequellennec@gmail.com"
-  uri :
+  # uri :
   home :  # null (default), "absolute or relative url to link to author home"
   github: "orlross"
   gitlab: "orlane.le-quellennec"
