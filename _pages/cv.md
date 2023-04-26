@@ -1,6 +1,11 @@
 ---
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+header:
+  overlay_color: "#ca6f1e"
+  overlay_filter: "0.5"
+classes: wide
 ---
 
 My full cv, in French is available \[[last update : May 2022]({{ site.url }}/_data/cv.pdf)\].
@@ -13,5 +18,5 @@ My full cv, in French is available \[[last update : May 2022]({{ site.url }}/_da
 
 
 ## Internships
-* January - July 2022: Internship (*Maternal exposure to ambient air pollution and placental epigenetic aging: Developing a new clock and estimating associations*) under the supervision of Johanna Lepeule, Aurélie Nakaruma and Lucile Broséus at Institut for Advanced Biosciences (IAB), Grenoble, France
-* January - May 2021 : Mentored project (*Analysis of patient flow in the emergency department and its associated factors in French Guiana between 2018 and 2020*) under the supervision of Joseph Rwagitinywa and in collaboration with Choisie Mukakalisa at Observatoire Régional de la Santé (ORS), Guyane, France 
+* January - July 2022: Internship (*Maternal exposure to ambient air pollution and placental epigenetic aging: Developing a new clock and estimating associations*) under the supervision of Johanna Lepeule, Aurélie Nakaruma, Lucile Broséus and [François Septier](http://web.univ-ubs.fr/lmba/septier/) at Institut for Advanced Biosciences (IAB), Grenoble, France 
+* January - May 2021 : Mentored project (*Analysis of patient flow in the emergency department and its associated factors in French Guiana between 2018 and 2020*) under the supervision of Joseph Rwagitinywa and [Evans Gouno](http://web.univ-ubs.fr/lmba/gouno/) and in collaboration with Choisie Mukakalisa at Observatoire Régional de la Santé (ORS), Guyane, France 
