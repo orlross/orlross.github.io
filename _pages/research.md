@@ -2,11 +2,12 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
+---
+
+<!--header:
   overlay_color: "#ca6f1e"
   overlay_filter: "0.5"
-classes: wide
----
+classes: wide-->
 
 # Talks 
 
