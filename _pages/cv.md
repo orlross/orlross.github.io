@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 header:
-  overlay_color: "#edbb99"
+  overlay_color: "#1f618d"
   overlay_filter: "0.25"
 classes: wide
 ---

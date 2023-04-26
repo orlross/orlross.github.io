@@ -29,7 +29,7 @@ logo: <a href="https://www.flaticon.com/free-icons/rain" title="rain icons">Rain
 # Build settings
 markdown: kramdown
 # On peut fixer la version
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt"
 # Outputting
 permalink: /:categories/:title/
