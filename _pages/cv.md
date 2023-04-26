@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-My full cv, in French is available \[[last update : May 2022]({{ site.url }}/_data/cv.pdf)\].
+My full \[[cv]({{ site.url }}/_data/cv.pdf)\], in French is available (last update : May 2022).
 
 ## Academic Background 
 
