@@ -16,15 +16,20 @@
 title: Home
 email: orlane.lequellennec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  new desc
+  Website page.
 twitter_username: username
 github_username: orlross
+github: [metadata]
 search: true
+baseurl: ""
+url: "https://orlross.github.io/"
+logo: <a href="https://www.flaticon.com/free-icons/rain" title="rain icons">Rain icons created by Freepik - Flaticon</a>
+
 
 # Build settings
 markdown: kramdown
 # On peut fixer la version
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dirt"
 # Outputting
 permalink: /:categories/:title/
@@ -39,6 +44,14 @@ google-site-verification: "rIqJd2ageMYnI6gwwFI2feUJ5LDQqfgK2AmfAh"
 # ["_pages", "_data", "_reminders", "_layouts", "_teachings"]
 include: ["_pages", "_teachings", "_data"]
 
+collections:
+  # reminders:
+  #   output: true
+  #   permalink: /:collection/:path/
+  teachings:
+    output: true
+    permalink: /:collection/:path/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -50,6 +63,16 @@ include: ["_pages", "_teachings", "_data"]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Plugins (previously gems:)
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
+
 
 # Plugins (previously gems:)
 plugins:
@@ -76,38 +99,19 @@ author:
   avatar: "/_data/image/pp.jpg"
   bio: "PhD Student in statistics" # Note: Markdown is allowed
   location: "Montpellier, France"
-  email            : "orlane.lequellennec@outlook.fr"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "orlross"
-  gitlab           : "orlane.le-quellennec"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # maybe...
+  email            : "orlane.lequellennec@gmail.com"
+  github: "orlross"
+  gitlab: "orlane.le-quellennec"
   links:
-    - label: "Reddit"
-      icon: "fab fa-fw fa-reddit"
-      url: # "https://www.reddit.com/user/tanglef"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/orlane-le-quellennec"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
 
 defaults:
   # _pages
@@ -167,16 +171,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-collections:
-  teachings:
-    output: true
-    permalink: /:collection/:path/
-
-# Site
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
