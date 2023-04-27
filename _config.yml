@@ -37,7 +37,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-google-site-verification: "rIqJd2ageMYnI6gwwFI2feUJ5LDQqfgK2AmfAh"
+google-site-verification: "rIqJd2ageMYnI6gwwFI2feUJ5LDQqfgK2AmfAh-YykI"
 # "rIqJd2ageMYnI6gwwFI2feUJ5LDQqfgK2AmfAh-YykI"
 
 # Rajouter les dossiers pour qu'ils soient pris en compte sur le site web
