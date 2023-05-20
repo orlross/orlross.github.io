@@ -9,10 +9,4 @@ header:
 classes: wide
 ---
 
-<!--header:
-  overlay_color: "#ca6f1e"
-  overlay_filter: "0.5"
-classes: wide-->
-
-
 
