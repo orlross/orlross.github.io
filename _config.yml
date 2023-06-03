@@ -46,7 +46,7 @@ google-site-verification: "rIqJd2ageMYnI6gwwFI2feUJ5LDQqfgK2AmfAh-YykI"
 
 # Rajouter les dossiers pour qu'ils soient pris en compte sur le site web
 # ["_pages", "_data", "_reminders", "_layouts", "_teachings"]
-include: ["_pages", "_teachings", "_data", "_layouts"]
+include: ["_pages", "_teachings", "_data", "_includes", "_layouts"]
 
 collections:
   # reminders:
