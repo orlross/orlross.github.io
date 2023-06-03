@@ -6,9 +6,6 @@ collection: teachings
 header:
   overlay_color: "#68818C"
   overlay_filter: "0.3"
-body:
-  overlay_color: "#68818C"
-  overlay_filter: "0.1"
 classes: wide
 ---
 
