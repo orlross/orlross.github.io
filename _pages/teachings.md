@@ -4,7 +4,10 @@ layout: collection
 permalink: /teachings/
 collection: teachings
 header:
-  overlay_color: "#eaf2f8"
+  overlay_color: "#68818C"
+  overlay_filter: "0.1"
+footer:
+  overlay_color: "#68818C"
   overlay_filter: "0.1"
 classes: wide
 ---
