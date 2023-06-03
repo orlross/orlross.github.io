@@ -6,8 +6,6 @@ header:
   overlay_color: "#eaf2f8"
   overlay_filter: "0.1"
 classes: wide
-html_document: 
-  css: styles.css
 ---
 
 My full \[[cv]({{ site.url }}/_data/cv.pdf)\], in French is available (last update : May 2022).
