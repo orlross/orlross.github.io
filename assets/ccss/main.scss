@@ -9,3 +9,7 @@ $link-color: rgb(30, 131, 118);
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+footer {
+    background-color: #482424; /* Replace #ff0000 with your desired color */
+  }
