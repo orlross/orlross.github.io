@@ -29,8 +29,8 @@ search: true
 # Build settings
 markdown: kramdown
 # On peut fixer la version
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
