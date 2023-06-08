@@ -3,15 +3,6 @@ layout: single
 title: ""
 author_profile: true
 ---
-
-<style>
-    body { background-color: grey; }
-    pre, pre:not([class]) { background-color: red; }
-
-    footer { background-color: grey; }
-    pre, pre:not([class]) { background-color: red; }
-</style>
-
 ## General
 
 I'm currently a PhD student in Statistics in Montpellier, France.
