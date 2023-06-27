@@ -20,9 +20,6 @@ My full \[[cv]({{ site.url }}/_data/cv.pdf)\], in French is available (last upda
 *    2019-2020: Erasmus Year at [Warsaw University of Technology](https://www.pw.edu.pl/engpw), Poland
 
 
-
-
-
 ## Internships
 
 * January - July 2022: Internship (*Maternal exposure to ambient air pollution and placental epigenetic aging: Developing a new clock and estimating associations*) under the supervision of Johanna Lepeule, Aurélie Nakaruma, Lucile Broséus and [François Septier](http://web.univ-ubs.fr/lmba/septier/) at [Institut for Advanced Biosciences (IAB)](https://iab.univ-grenoble-alpes.fr/), Grenoble, France 
