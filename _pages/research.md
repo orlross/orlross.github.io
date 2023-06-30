@@ -9,7 +9,7 @@ classes: wide
 
 <!-- - July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[slides]({{ site.url }}/_data/slides/JDS_23_07_04.pdf)\] -->
 
-<!-- - (invitée) June 2023: [INFORMS Applied Probability Society Conference](https://informs-aps2023.event.univ-lorraine.fr/), *An example of medical treatment optimization under model uncertainty*, Nancy, France \[[slides]({{ site.url }}/_data/slides/APS_23_06_30.pdf)\] -->
+- (invitée) June 2023: [INFORMS Applied Probability Society Conference](https://informs-aps2023.event.univ-lorraine.fr/), *An example of medical treatment optimization under model uncertainty*, Nancy, France \[[slides]({{ site.url }}/_data/slides/APS_23_06_30.pdf)\]
 
 - June 2023: [Séminaire des doctorant.e.s](https://imag.umontpellier.fr/?page_id=625&idsem=596), *An example of medical treatment optimization under model uncertainty*, [IMAG, Univ. Montpellier](https://imag.umontpellier.fr/?page_id=1172&lang=en), France \[[slides]({{ site.url }}/_data/slides/Semdoc_23_06_07.pdf)\]
 
