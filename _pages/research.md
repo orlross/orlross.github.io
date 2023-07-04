@@ -7,7 +7,7 @@ classes: wide
 
 ## Talks 
 
-<!-- - July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[slides]({{ site.url }}/_data/slides/JDS_23_07_04.pdf)\] -->
+- July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[slides]({{ site.url }}/_data/slides/JDS_23_07_04.pdf)\]
 
 - (invitée) June 2023: [INFORMS Applied Probability Society Conference](https://informs-aps2023.event.univ-lorraine.fr/), *An example of medical treatment optimization under model uncertainty*, Nancy, France \[[slides]({{ site.url }}/_data/slides/APS_23_06_30.pdf)\]
 
