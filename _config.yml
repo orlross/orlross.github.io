@@ -107,7 +107,7 @@ author:
   # uri :
   home :  # null (default), "absolute or relative url to link to author home"
   github: "orlross"
-  gitlab: "orlane.le-quellennec"
+  gitlab: "forgemia.inra.fr/orlane.le-quellennec"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
