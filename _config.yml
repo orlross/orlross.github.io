@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Home
 email: orlane.lequellennec@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Website page.
 twitter_username: username
 github_username: orlross
@@ -99,11 +99,11 @@ collections:
 
 
 author:
-  name: "Orlane Le Quellennec"
+  name: "Orlane Rossini"
   avatar: "/_data/image/pp.jpg"
   bio: "PhD Student in statistics" # Note: Markdown is allowed
   location: "Montpellier, France"
-  email : "orlane.lequellennec@gmail.com"
+  email : "orlane.rossini22@gmail.com"
   # uri :
   home :  # null (default), "absolute or relative url to link to author home"
   github: "orlross"
@@ -111,7 +111,7 @@ author:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/orlane-le-quellennec"
+      url: "https://www.linkedin.com/in/orlane-rossini"
 
 footer:
   links:
