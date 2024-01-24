@@ -5,13 +5,16 @@ author_profile: true
 classes: wide
 ---
 
+## Publications 
+
+### In Proceedings of Conferences 
+- July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[paper]({{ site.url }}/_data/slides/jds_23_paper.pdf)\]
+
 ## Talks 
 
 - (invitée) November 2023: [8èmes rencontres de statistique](https://www.lebesgue.fr/fr/rencontresstat23/programme), *Contrôle dynamique stochastique : une approche à base de modèles semi-Markov, application à l'optimisation d'un traitement médical*, [Université Bretagne Sud](https://www-facultesciences.univ-ubs.fr/fr/index.html), Vannes, France \[[slides]({{ site.url }}/_data/slides/Vannes_23_11_30.pdf)\]
 
 - September 2023: [Annual meeting of the HSSM-INCA project](https://groupes.renater.fr/wiki/hsmm-inca/public/index), *An example of medical treatment optimization under model uncertainty*, [Université de Technologie de Compiègne](https://www.utc.fr/), Compiègne, France \[[slides]({{ site.url }}/_data/slides/INCA_23_09_07.pdf)\]
-
-- July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[slides]({{ site.url }}/_data/slides/JDS_23_07_04.pdf)\]
 
 - (invitée) June 2023: [INFORMS Applied Probability Society Conference](https://informs-aps2023.event.univ-lorraine.fr/), *An example of medical treatment optimization under model uncertainty*, Nancy, France \[[slides]({{ site.url }}/_data/slides/APS_23_06_30.pdf)\]
 
