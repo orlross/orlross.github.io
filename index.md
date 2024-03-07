@@ -12,7 +12,7 @@ I am under the supervision of [Benoîte de Saporta](https://imag.umontpellier.fr
 
 You can reach me at:
 
-* [orlane.le-quellennec@umontpellier.fr](mailto:orlane.rossini@umontpellier.fr)
+* [orlane.rossini@umontpellier.fr](mailto:orlane.rossini@umontpellier.fr)
 
 ## Research interests
 
