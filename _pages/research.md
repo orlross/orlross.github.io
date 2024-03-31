@@ -12,6 +12,8 @@ classes: wide
 
 ## Talks 
 
+- March 2024: [Séminaire des doctorant.e.s](https://imag.umontpellier.fr/?page_id=625&idsem=596), *Stochastic dynamic control: an approach based on semi-Markov models*, [IMAG, Univ. Montpellier](https://imag.umontpellier.fr/?page_id=785&idsem=596), France \[[slides]({{ site.url }}/_data/slides/Semdoc_24_03.pdf)\]
+
 - (invitée) November 2023: [8èmes rencontres de statistique](https://www.lebesgue.fr/fr/rencontresstat23/programme), *Contrôle dynamique stochastique : une approche à base de modèles semi-Markov, application à l'optimisation d'un traitement médical*, [Université Bretagne Sud](https://www-facultesciences.univ-ubs.fr/fr/index.html), Vannes, France \[[slides]({{ site.url }}/_data/slides/Vannes_23_11_30.pdf)\]
 
 - September 2023: [Annual meeting of the HSSM-INCA project](https://groupes.renater.fr/wiki/hsmm-inca/public/index), *An example of medical treatment optimization under model uncertainty*, [Université de Technologie de Compiègne](https://www.utc.fr/), Compiègne, France \[[slides]({{ site.url }}/_data/slides/INCA_23_09_07.pdf)\]
