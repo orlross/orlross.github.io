@@ -8,9 +8,13 @@ classes: wide
 ## Publications 
 
 ### In Proceedings of Conferences 
+- May 2024: [Journées de Statistique](https://jds2024.sciencesconf.org/?lang=fr), *Deep reinforcement learning for controlled piecewise deterministic Markov process in cancer treatment follow-up.*, [Université de Bordeaux](https://www.u-bordeaux.fr/), France \[[paper]({{ site.url }}/_data/slides/jds_24_paper.pdf)\]
+
 - July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[paper]({{ site.url }}/_data/slides/jds_23_paper.pdf)\]
 
 ## Talks 
+
+- April 2024: [10èmes Rencontres des Jeunes Statisticien.ne.s](https://rjs2024.sciencesconf.org/), *Stochastic dynamic control: an approach based on semi-Markov models*, Porquerolles, France \[[slides]({{ site.url }}/_data/slides/RJS_24_04.pdf)\]
 
 - March 2024: [Séminaire des doctorant.e.s](https://imag.umontpellier.fr/?page_id=625&idsem=596), *Stochastic dynamic control: an approach based on semi-Markov models*, [IMAG, Univ. Montpellier](https://imag.umontpellier.fr/?page_id=785&idsem=596), France \[[slides]({{ site.url }}/_data/slides/Semdoc_24_03.pdf)\]
 
