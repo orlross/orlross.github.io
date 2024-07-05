@@ -8,11 +8,15 @@ classes: wide
 ## Publications 
 
 ### In Proceedings of Conferences 
-- May 2024: [Journées de Statistique](https://jds2024.sciencesconf.org/?lang=fr), *Deep reinforcement learning for controlled piecewise deterministic Markov process in cancer treatment follow-up.*, [Université de Bordeaux](https://www.u-bordeaux.fr/), France \[[paper]({{ site.url }}/_data/slides/jds_24_paper.pdf)\]
+- July 2024: [Journée Santé et IA, PFIA](https://pfia2024.univ-lr.fr/Journ%C3%A9es/Sant%C3%A9-et-IA/), *Deep Reinforcement Learning for Controlled Piecewise Deterministic Markov Process in Cancer Treatment Follow-up*, Université de la Rochelle, France \[[paper]({{ site.url }}/_data/slides/ias2024_paper_6.pdf)\]
+
+- May 2024: [Journées de Statistique](https://jds2024.sciencesconf.org/?lang=fr), *Deep reinforcement learning for controlled piecewise deterministic Markov process in cancer treatment follow-up*, [Université de Bordeaux](https://www.u-bordeaux.fr/), France \[[paper]({{ site.url }}/_data/slides/jds_24_paper.pdf)\]
 
 - July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[paper]({{ site.url }}/_data/slides/jds_23_paper.pdf)\]
 
 ## Talks 
+
+- June 2024: [Colloque de statistiques, Rencontres scientifiques Montpellier-Sherbrooke](https://montpellier-sherbrooke.org/node/12), *Apprentissage par renforcement profond pour les processus de Markov déterministe par morceaux contrôlés dans le suivi du traitement du cancer*, Sherbrooke, Canada \[[slides]({{ site.url }}/_data/slides/Sherbrooke_24_06_19.pdf)\]
 
 - April 2024: [10èmes Rencontres des Jeunes Statisticien.ne.s](https://rjs2024.sciencesconf.org/), *Stochastic dynamic control: an approach based on semi-Markov models*, Porquerolles, France \[[slides]({{ site.url }}/_data/slides/RJS_24_04.pdf)\]
 
