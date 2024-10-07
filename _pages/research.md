@@ -16,7 +16,9 @@ classes: wide
 
 ## Talks 
 
-- June 2024: [Colloque de statistiques, Rencontres scientifiques Montpellier-Sherbrooke](https://montpellier-sherbrooke.org/node/12), *Apprentissage par renforcement profond pour les processus de Markov déterministe par morceaux contrôlés dans le suivi du traitement du cancer*, Sherbrooke, Canada \[[slides]({{ site.url }}/_data/slides/Sherbrooke_24_06_19.pdf)\]
+- October 2024: [Annual meeting of the HSSM-INCA project](https://groupes.renater.fr/wiki/hsmm-inca/public/index), *Apprentissage par renforcement pour le contrôle de processus de Markov déterministe par morceaux - Application à l’optimisation d’un traitement médical*, [Université Rouen](https://www.univ-rouen.fr/), Rouen, France \[[slides]({{ site.url }}/_data/slides/INCA_24_10.pdf)\]
+
+- (invitée) June 2024: [Colloque de statistiques, Rencontres scientifiques Montpellier-Sherbrooke](https://montpellier-sherbrooke.org/node/12), *Apprentissage par renforcement profond pour les processus de Markov déterministe par morceaux contrôlés dans le suivi du traitement du cancer*, Sherbrooke, Canada \[[slides]({{ site.url }}/_data/slides/Sherbrooke_24_06_19.pdf)\]
 
 - April 2024: [10èmes Rencontres des Jeunes Statisticien.ne.s](https://rjs2024.sciencesconf.org/), *Stochastic dynamic control: an approach based on semi-Markov models*, Porquerolles, France \[[slides]({{ site.url }}/_data/slides/RJS_24_04.pdf)\]
 
