@@ -16,6 +16,8 @@ classes: wide
 
 ## Talks 
 
+- November 2024: [Journées de Biostatistiques](https://jdb2024.sciencesconf.org/?lang=fr), *Predicting Yeast Translation Efficiency from RNA Modification and Degradation Features: A Machine Learning Approach*, [PariSanté Campus](https://parisantecampus.fr/), Paris, France \[[slides]({{ site.url }}/_data/slides/Paris_24_11.pdf)\]
+
 - October 2024: [Annual meeting of the HSSM-INCA project](https://groupes.renater.fr/wiki/hsmm-inca/public/index), *Apprentissage par renforcement pour le contrôle de processus de Markov déterministe par morceaux - Application à l’optimisation d’un traitement médical*, [Université Rouen](https://www.univ-rouen.fr/), Rouen, France \[[slides]({{ site.url }}/_data/slides/INCA_24_10.pdf)\]
 
 - (invitée) June 2024: [Colloque de statistiques, Rencontres scientifiques Montpellier-Sherbrooke](https://montpellier-sherbrooke.org/node/12), *Apprentissage par renforcement profond pour les processus de Markov déterministe par morceaux contrôlés dans le suivi du traitement du cancer*, Sherbrooke, Canada \[[slides]({{ site.url }}/_data/slides/Sherbrooke_24_06_19.pdf)\]
@@ -40,3 +42,6 @@ classes: wide
 markoviens déterministes par morceaux, partiellement observables*, [INRAE-MIAT, Univ. Toulouse](https://miat.inrae.fr/site/Accueil), France \[[slides]({{ site.url }}/_data/slides/MIAT_23_01_13.pdf)\]
 
 - (invitée) December 2022: [*AustMS2022*](https://conference.unsw.edu.au/en/austms2022), *Maternal exposure to ambient air pollution and placental epigenetic aging: Developing a new clock and estimating associations*, [UNSW](https://www.unsw.edu.au/), Sydney, Australia
+
+The [.bib](/_data/orlane.bib) file associated with all my publications.
+

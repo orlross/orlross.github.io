@@ -1,5 +1,5 @@
 ---
-title: HAX102V - Application linéaire (2023-?)
+title: HAX102V - Application linéaire (2023-2024)
 ---
 
 Undergraduate course (in French) in the first year of the mathematics cursus.
