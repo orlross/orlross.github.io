@@ -6,6 +6,7 @@ classes: wide
 ---
 
 ## Publications 
+The [.bib](/_data/orlane.bib) file associated with all my publications.
 
 ### In Proceedings of Conferences 
 - July 2024: [Journée Santé et IA, PFIA](https://pfia2024.univ-lr.fr/Journ%C3%A9es/Sant%C3%A9-et-IA/), *Deep Reinforcement Learning for Controlled Piecewise Deterministic Markov Process in Cancer Treatment Follow-up*, Université de la Rochelle, France \[[paper]({{ site.url }}/_data/slides/ias2024_paper_6.pdf)\]
@@ -15,6 +16,9 @@ classes: wide
 - July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[paper]({{ site.url }}/_data/slides/jds_23_paper.pdf)\]
 
 ## Talks 
+
+- January 2025: [Journée des doctorant.e.s](https://miat.inrae.fr/site/images/e/ec/Programme-seminaire-doctorants-2025.pdf), *Numerical method for optimal strategies for im-
+pulse control of piecewise deterministic Markov process*, [INRAE-MIAT, Univ. Toulouse](https://miat.inrae.fr/site/Accueil), France \[[slides]({{ site.url }}/_data/slides/MIAT_25_01_16.pdf)\]
 
 - November 2024: [Journées de Biostatistiques](https://jdb2024.sciencesconf.org/?lang=fr), *Predicting Yeast Translation Efficiency from RNA Modification and Degradation Features: A Machine Learning Approach*, [PariSanté Campus](https://parisantecampus.fr/), Paris, France \[[slides]({{ site.url }}/_data/slides/Paris_24_11.pdf)\]
 
@@ -43,5 +47,5 @@ markoviens déterministes par morceaux, partiellement observables*, [INRAE-MIAT,
 
 - (invitée) December 2022: [*AustMS2022*](https://conference.unsw.edu.au/en/austms2022), *Maternal exposure to ambient air pollution and placental epigenetic aging: Developing a new clock and estimating associations*, [UNSW](https://www.unsw.edu.au/), Sydney, Australia
 
-The [.bib](/_data/orlane.bib) file associated with all my publications.
+
 
