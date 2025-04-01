@@ -13,3 +13,8 @@ This course is an introduction to statistical methods for the study of quantitat
 
 - \[[Sujet CC 2024]({{ site.url }}/_data/cours/HAI205X_Probas_stats_CC2024.pdf)\] et des \[[éléments de correction]({{ site.url }}/_data/cours/HAI205X_Probas_stats_CC2024_Correction.pdf)\]
 - \[[Sujet CC1 2025]({{ site.url }}/_data/cours/HAI205X_Probas_stats_CC12025.pdf)\] et des \[[éléments de correction]({{ site.url }}/_data/cours/HAI205X_Probas_stats_CC12025_Corrections.pdf)\]
+- \[[Sujet CC2 2025]({{ site.url }}/_data/cours/HAI205X_Probas_stats_CC22025.pdf)\] et des \[[éléments de correction]({{ site.url }}/_data/cours/HAIX205X_Probas_stats_CC2025_Correction.pdf)\]
+
+## Ressources supplémentaires
+
+- \[[Exercices supplémentaires]({{ site.url }}/_data/cours/HAI205X_exos_supp.pdf)\] 
