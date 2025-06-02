@@ -17,6 +17,8 @@ The [.bib](/_data/orlane.bib) file associated with all my publications.
 
 ## Talks 
 
+- May 2025: [Séminaire des doctorant.e.s], *Decisions Under Uncertainty: Reinforcement Learning for Impulse Control Piecewise Deterministic Markov Processes*, [INRIA, Univ. Montpellier](https://www.inria.fr/fr/antenne-inria-de-luniversite-de-montpellier), France \[[slides]({{ site.url }}/_data/slides/INRIA_25_05.pdf)\]
+
 - January 2025: [Journée des doctorant.e.s](https://miat.inrae.fr/site/images/e/ec/Programme-seminaire-doctorants-2025.pdf), *Numerical method for optimal strategies for im-
 pulse control of piecewise deterministic Markov process*, [INRAE-MIAT, Univ. Toulouse](https://miat.inrae.fr/site/Accueil), France \[[slides]({{ site.url }}/_data/slides/MIAT_25_01_16.pdf)\]
 
