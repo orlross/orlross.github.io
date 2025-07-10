@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-My full \[[CV]({{ site.url }}/_data/cv.pdf)\], in English is available (last update : January 2024).
+My full \[[CV]({{ site.url }}/_data/cv.pdf)\], in English is available (last update : January 2024) and \[[CV]({{ site.url }}/_data/cv_french.pdf)\], in French is available (last update : July 2025).
 
 ## Academic Background 
 
