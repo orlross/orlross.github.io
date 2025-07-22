@@ -4,6 +4,10 @@ title: ""
 author_profile: true
 ---
 
+## News
+
+I am actively seeking a postdoctoral position focusing on the development of new **machine learning** algorithms for the integration of **multi-omics data**, with the aim of advancing our understanding of **complex biological mechanisms**.
+
 ## General
 
 I'm currently a PhD fellow in Biostatistics at the CNRS. 
@@ -16,6 +20,7 @@ You can reach me at:
 
 ## Research interests
 
+* Machine learning techniques for genomics
 * Machine Learning - Reinforcement Learning
 * Applied probability and Statistics 
 * Markov processes 
