@@ -1,5 +1,5 @@
 ---
-title: HAI205X - Probas Stats (2024-?)
+title: HAI205X - Probas Stats (2024-2025)
 ---
 
 Undergraduate course (in French) in the first year of the computer science cursus.

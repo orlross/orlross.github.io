@@ -17,6 +17,10 @@ The [.bib](/_data/orlane.bib) file associated with all my publications.
 
 ## Talks 
 
+- November 2025: [Journées de Biostatistique 2025](https://jbiostat2025.sciencesconf.org/?lang=fr), *Bayes-Adaptive Impulse Control of Piecewise-Deterministic Markov Processes*, Univ. Montpellier, France \[[slides]({{ site.url }}/_data/slides/JdB_25_11_05.pdf)\]
+
+- October 2025: [Séminaire de Probabilités et Statistique](https://imag.umontpellier.fr/?page_id=785&idsem=13), *Deep Reinforcement Learning for Bayes-Adaptive Impulse Control of PDMPs for Cancer Patient Follow-Up*, IMAG, Univ. Montpellier, France \[[slides]({{ site.url }}/_data/slides/EPS_25_10.pdf)\]
+
 - July 2025: [Markov, Semi-Markov Models and Associated Fields](https://masemo.sciencesconf.org/), *Deep Reinforcement Learning for Impulse Control in PDMPs through BAPOMDP framework*, Univ. Sorbonne, Paris, France \[[slides]({{ site.url }}/_data/slides/MameSo_25_07_01.pdf)\]
 
 - May 2025: Séminaire des doctorant.e.s, *Decisions Under Uncertainty: Reinforcement Learning for Impulse Control Piecewise Deterministic Markov Processes*, [INRIA, Univ. Montpellier](https://www.inria.fr/fr/antenne-inria-de-luniversite-de-montpellier), France \[[slides]({{ site.url }}/_data/slides/INRIA_25_05.pdf)\]
