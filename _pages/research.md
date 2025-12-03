@@ -6,9 +6,17 @@ classes: wide
 ---
 
 ## Publications 
+
 The [.bib](/_data/orlane.bib) file associated with all my publications.
 
+### Preprints 
+
+- Bayes-Adaptive Impulse Control of Piecewise-Deterministic Markov Processes} in [hal-05054392](https://hal.science/hal-05054392) by O. Rossini, M. Vinyals, A. Cleynen, B. de Saporta, R. Sabbadin, M. Vinyals, October 2025
+
+- Bridging Impulse Control of Piecewise Deterministic Markov Processes and Markov Decision Processes: Frameworks, Extensions, and Open Challenges, in [arXiv:2501.04120](https://arxiv.org/abs/2501.04120) by A. Cleynen, B. de Saporta, O. Rossini, R. Sabbadin, A. Vernay, April 2025
+
 ### In Proceedings of Conferences 
+
 - July 2024: [Journée Santé et IA, PFIA](https://pfia2024.univ-lr.fr/Journ%C3%A9es/Sant%C3%A9-et-IA/), *Deep Reinforcement Learning for Controlled Piecewise Deterministic Markov Process in Cancer Treatment Follow-up*, Université de la Rochelle, France \[[paper]({{ site.url }}/_data/slides/ias2024_paper_6.pdf)\]
 
 - May 2024: [Journées de Statistique](https://jds2024.sciencesconf.org/?lang=fr), *Deep reinforcement learning for controlled piecewise deterministic Markov process in cancer treatment follow-up*, [Université de Bordeaux](https://www.u-bordeaux.fr/), France \[[paper]({{ site.url }}/_data/slides/jds_24_paper.pdf)\]

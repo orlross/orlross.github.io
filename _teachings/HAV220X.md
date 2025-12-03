@@ -1,5 +1,5 @@
 ---
-title: HAV220X - Raisonnement scientifique (2023-?)
+title: HAV220X - Raisonnement scientifique (2023-2025)
 ---
 
 Undergraduate course (in French) in the first year of the biology cursus.
