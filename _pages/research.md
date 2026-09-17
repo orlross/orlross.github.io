@@ -11,7 +11,8 @@ The [.bib](/_data/orlane.bib) file associated with all my publications.
 
 ### Preprints 
 
-- Bayes-Adaptive Impulse Control of Piecewise-Deterministic Markov Processes} in [hal-05054392](https://hal.science/hal-05054392) by O. Rossini, M. Vinyals, A. Cleynen, B. de Saporta, R. Sabbadin, M. Vinyals, October 2025
+- Orlane Rossini, Meritxell Vinyals, Alice Cleynen, Benoîte de Saporta, Régis Sabbadin. Bayes-Adaptive
+Impulse Control of Piecewise-Deterministic Markov Processes. 2026. hal-05054392v3
 
 - Bridging Impulse Control of Piecewise Deterministic Markov Processes and Markov Decision Processes: Frameworks, Extensions, and Open Challenges, in [arXiv:2501.04120](https://arxiv.org/abs/2501.04120) by A. Cleynen, B. de Saporta, O. Rossini, R. Sabbadin, A. Vernay, April 2025
 
@@ -23,7 +24,12 @@ The [.bib](/_data/orlane.bib) file associated with all my publications.
 
 - July 2023: [Journées de Statistique](https://jds2023.sciencesconf.org/), *An example of medical treatment optimization under model uncertainty*, [Université libre de Bruxelles](https://www.ulb.be/), Belgique \[[paper]({{ site.url }}/_data/slides/jds_23_paper.pdf)\]
 
+### Book chapters 
+-  CLEYNEN, A., DE SAPORTA, B., ROSSINI, O., SABBADIN, R. and VERNAY, A. (2025). Controlled Hidden Semi-Markov Models. In A Comprehensive Guide to HSMM (eds N. Peyrard and B. Saporta). https://doi.org/10.1002/9781394427581.ch6
+
 ## Talks 
+
+- (invitée) December 2025: Séminaire PAS, *Apprentissage par renforcement model-based pour le contrôle de processus de décision semi-markoviens déterministes par morceaux partiellement observables. *, LMPB, Clermont-Ferrand, France 
 
 - November 2025: [Journées de Biostatistique 2025](https://jbiostat2025.sciencesconf.org/?lang=fr), *Bayes-Adaptive Impulse Control of Piecewise-Deterministic Markov Processes*, Univ. Montpellier, France \[[slides]({{ site.url }}/_data/slides/JdB_25_11_05.pdf)\]
 
