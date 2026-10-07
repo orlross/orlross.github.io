@@ -10,6 +10,8 @@ My full \[[CV]({{ site.url }}/_data/cv.pdf)\], in English is available (last upd
 
 ## Experiences
 
+* 2026-: Associate Professor at IRMA, University of Strasbourg
+
 * 2025-2026: Temporary Lecturer at Department of Mathematics, Faculty of Science, University of Montpellier
 
 * 2022-2025: Assistant Lecturer at Department of Mathematics, Faculty of Science, University of Montpellier
