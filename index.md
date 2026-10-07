@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-I am currently an associate professor at [IRMA](https://irma.math.unistra.fr/) (Strasbourg university). 
+I am currently an associate professor at  Institut de Recherche de Mathématique Avancée ([IRMA](https://irma.math.unistra.fr/)), Strasbourg university. 
 
 ## Research interests
 

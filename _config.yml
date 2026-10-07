@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Home
-email: orlane.lequellennec@gmail.com
+email: orlane.rossini22@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   Website page.
 twitter_username: username
@@ -101,8 +101,8 @@ collections:
 author:
   name: "Orlane Rossini"
   avatar: "/_data/image/pp.jpg"
-  bio: "PhD fellow in biotatistics" # Note: Markdown is allowed
-  location: "Montpellier, France"
+  bio: "Associate Professor " # Note: Markdown is allowed
+  location: "Strasbourg, France"
   email : "orlane.rossini22@gmail.com"
   # uri :
   home :  # null (default), "absolute or relative url to link to author home"

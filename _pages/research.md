@@ -9,12 +9,19 @@ classes: wide
 
 The [.bib](/_data/orlane.bib) file associated with all my publications.
 
+
 ### Preprints 
+
+- Orlane Rossini, Shafi Mahmud, Nikolay Shirokikh, Alice Cleynen. Multi-omic dissection of RNA control reveals convergent cis-regulatory programs during glucose starvation in yeast. 2026. https://doi.org/10.64898/2026.07.20.739609 
 
 - Orlane Rossini, Meritxell Vinyals, Alice Cleynen, Benoîte de Saporta, Régis Sabbadin. Bayes-Adaptive
 Impulse Control of Piecewise-Deterministic Markov Processes. 2026. hal-05054392v3
 
 - Bridging Impulse Control of Piecewise Deterministic Markov Processes and Markov Decision Processes: Frameworks, Extensions, and Open Challenges, in [arXiv:2501.04120](https://arxiv.org/abs/2501.04120) by A. Cleynen, B. de Saporta, O. Rossini, R. Sabbadin, A. Vernay, April 2025
+
+### Publihed 
+
+-[1] A refined Saccharomyces cerevisiae reference transcriptome from direct RNA sequencing, with a reusable pipeline for UTR annotation updates, _FEMS Yeast Research_, Orlane Rossini, Alice Cleynen, Nikolay E Shirokikh, 2026, https://doi.org/10.1093/femsyr/foag052
 
 ### In Proceedings of Conferences 
 
@@ -27,6 +34,7 @@ Impulse Control of Piecewise-Deterministic Markov Processes. 2026. hal-05054392v
 ### Book chapters 
 -  CLEYNEN, A., DE SAPORTA, B., ROSSINI, O., SABBADIN, R. and VERNAY, A. (2025). Controlled Hidden Semi-Markov Models. In A Comprehensive Guide to HSMM (eds N. Peyrard and B. Saporta). https://doi.org/10.1002/9781394427581.ch6
 
+<!--
 ## Talks 
 
 - (invitée) December 2025: Séminaire PAS, *Apprentissage par renforcement model-based pour le contrôle de processus de décision semi-markoviens déterministes par morceaux partiellement observables. *, LMPB, Clermont-Ferrand, France 
@@ -69,5 +77,5 @@ markoviens déterministes par morceaux, partiellement observables*, [INRAE-MIAT,
 
 - (invitée) December 2022: [*AustMS2022*](https://conference.unsw.edu.au/en/austms2022), *Maternal exposure to ambient air pollution and placental epigenetic aging: Developing a new clock and estimating associations*, [UNSW](https://www.unsw.edu.au/), Sydney, Australia
 
-
+-->
 
