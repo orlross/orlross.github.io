@@ -7,8 +7,7 @@ classes: wide
 
 ## Publications 
 
-The [.bib](/_data/orlane.bib) file associated with all my publications.
-
+The [.bib](/_data/orlane.bib) file associated with all my publications (last update : October 2026).
 
 ### Preprints 
 
@@ -19,7 +18,7 @@ Impulse Control of Piecewise-Deterministic Markov Processes. 2026. hal-05054392v
 
 - Bridging Impulse Control of Piecewise Deterministic Markov Processes and Markov Decision Processes: Frameworks, Extensions, and Open Challenges, in [arXiv:2501.04120](https://arxiv.org/abs/2501.04120) by A. Cleynen, B. de Saporta, O. Rossini, R. Sabbadin, A. Vernay, April 2025
 
-### Publihed 
+### Published 
 
 -[1] A refined Saccharomyces cerevisiae reference transcriptome from direct RNA sequencing, with a reusable pipeline for UTR annotation updates, _FEMS Yeast Research_, Orlane Rossini, Alice Cleynen, Nikolay E Shirokikh, 2026, https://doi.org/10.1093/femsyr/foag052
 
