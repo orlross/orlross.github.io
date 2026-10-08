@@ -20,7 +20,7 @@ Impulse Control of Piecewise-Deterministic Markov Processes. 2026. hal-05054392v
 
 ### Published 
 
--[1] A refined Saccharomyces cerevisiae reference transcriptome from direct RNA sequencing, with a reusable pipeline for UTR annotation updates, _FEMS Yeast Research_, Orlane Rossini, Alice Cleynen, Nikolay E Shirokikh, 2026, https://doi.org/10.1093/femsyr/foag052
+-[1] A refined Saccharomyces cerevisiae reference transcriptome from direct RNA sequencing, with a reusable pipeline for UTR annotation updates, _FEMS Yeast Research_, Orlane Rossini, Alice Cleynen, Nikolay E Shirokikh, 2026, [https://doi.org/10.1093/femsyr/foag052](https://doi.org/10.1093/femsyr/foag052)
 
 ### In Proceedings of Conferences 
 
